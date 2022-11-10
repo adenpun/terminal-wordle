@@ -1,4 +1,4 @@
-# Terminal Wordle
+# (Bad) Terminal Wordle
 
 ## What is this?
 
