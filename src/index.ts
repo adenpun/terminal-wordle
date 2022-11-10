@@ -12,7 +12,7 @@ var isWon: boolean = false;
 
 (async () => {
     wordList = await fs
-        .readFileSync(path.join(__dirname, "word-list.txt"))
+        .readFileSync(path.join(__dirname, "../", "word-list.txt"))
         .toString();
     var splitedWordList = wordList.split(/\r?\n/);
     console.clear();
