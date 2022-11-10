@@ -1,5 +1,9 @@
 # Terminal Wordle
 
+## What is this?
+
+This is a very very bad wordle clone.
+
 ## How to Play?
 
 1. Run `npm run init`.
